@@ -9,8 +9,6 @@ function Kisi(isim,yas){
     this.selamla = function () {
         console.log('merhaba, ben',isim);
     }
-
-
 }
 
 let k3 = new Kisi('Derya',42);
